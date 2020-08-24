@@ -1,0 +1,11 @@
+main: net.simplyrin.statisticchecker.Main
+name: StatisticChecker
+version: 1.0
+api-version: 1.16
+author: SimplyRin
+depend: [LocaleLib]
+commands:
+  log:
+  unchi:
+  unti:
+  mergeplayer:
